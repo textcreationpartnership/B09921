@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lady Russel's and all Lords of Manners case and reasons against the bill for erecting a court of conscience</title>
+            <author>Russell, Rachel, Lady, 1636-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09921</idno>
+            <idno type="STC">Wing R2346B</idno>
+            <idno type="STC">ESTC R188739</idno>
+            <idno type="EEBO-CITATION">62369645</idno>
+            <idno type="OCLC">ocm 62369645</idno>
+            <idno type="VID">188119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188119)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lady Russel's and all Lords of Manners case and reasons against the bill for erecting a court of conscience</title>
+                  <author>Russell, Rachel, Lady, 1636-1723.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: margins cropped.</note>
+                  <note>Reproduction of original in: Harvard Law School. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, Rachel, --  Lady, 1636-1723.</term>
+               <term>Conscience --  England --  Early works to 1800.</term>
+               <term>Courts --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188119:1"/>
+            <pb facs="tcp:188119:2" rendition="simple:additions"/>
+            <head>The Lady <hi>R<g ref="char:V">Ʋ</g>SSEL</hi>'s, and all <hi>Lords of Manners,</hi> CASE and REASONS againſt the BILL for Erecting a <hi>Court of Conſcience.</hi>
+            </head>
+            <p>1. AS to the Matter of the Act, it takes away (as to the Cauſe mentioned in the Act) the Ancient Tryals by Jury, and gives an Arbitrary Power to the Commiſſioners to Hear and Determine Finally, without any Appeal from them to any Judicature whatſoever: And great Inconve<g ref="char:EOLhyphen"/>niences muſt enſue, by giving an Abſolute Power to the Commiſſioners to diſpoſe of all Debts under 40 <hi>s.</hi> at their ſole Wills and Pleaſures, and takes from every Man his Birthright to the Ancient Law of the Land.</p>
+            <p>2. Parliaments have been ever very Careful to Maintain the Ancient Law in its Fundamentals, (of which, <hi>Tryals by Jury</hi> is a Chief one) and there<g ref="char:EOLhyphen"/>fore it was once the Anſwer of a Parliament, upon almoſt the like occaſion, <hi>Nolumus mutare Leges Angliae.</hi>
+            </p>
+            <p>3.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. t. Mabridg, 2 H. 3. ca. 23. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tat Weſtm.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cap. made
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1 Ed. 1.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5 Ed. 3. c. 17.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tat. 25 Ed. 3.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tat. Gloc. Ed. 1. cap. 8.</note> Cauſes under
+40 <hi>s.</hi> are, by the Common Law, tryable in Inferiour Courts, only as Courts-Barons,
+<hi>&amp;c.</hi> and not in the Superiour Courts at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> by ſeveral Statutes which were never yet Repeal'd. This Act deſtroys all thoſe Courts, alters the Law, and takes the Power out of Perſons of Quality, that are Lords of Mannors, veſts it in Shopkeepers; ſo that if a Lord of a Mannor (within his Juriſdiction) have a Conteſt for Debt under 40
+<hi>s.</hi> with another Perſon, he muſt apply himſelf to a Company of Shopkeepers for Relief, and make them his Judges, who, by the Common Law, had a Court belonging to his Mannor, where Cauſes were properly tryable.</p>
+            <p>4. Juſtices ſhall not take Aſſizes in their own Country, prohibited by Statute-Law, becauſe of the Favour they may uſe to their Acquaintances. This Law, juſt contrary to the Reaſon of that Statute, gives a Juriſdiction to perſons over their Neighbors; and whether it be not likely that <hi>Partiality</hi> may prevail.</p>
+            <p>5. Suppoſed ſome of the perſons to be named Commiſſioners ſhould be Indebted to their Neighbors in Sums of Mony under 40 <hi>s.</hi> Thoſe to whom they are Debtors are abſolutely without Remedy; for, either they muſt be Judges in their own Caſes, (which is not to be ſuppoſed the Statute does intend) or elſe they are exempt from Paying for the time they are Judges, not ſuable elſewhere. Put likewiſe, in caſe that ſeveral perſons ſhould be In<g ref="char:EOLhyphen"/>debted to the Commiſſioners under 40 <hi>s.</hi> they being made Commiſſioners, are diſabled to recover their Debts for the Reaſons aforeſaid.</p>
+            <p>Now, as to the Deſign of the Act, to hinder the expending of great Coſts and Charges at Law, for Small Debts, which there is an abſolute neceſſity for, becauſe ſome perſons had better loſe ſuch ſmall Debts than venture the expending 10 <hi>l.</hi> in the ſuperiour Courts for the recovery thereof, and alſo paying the Defendant Coſt, if he be Nonſuited; others muſt Loſe ſuch ſmall Debts, becauſe they are not able to Sue for them: But the greateſt Sufferers are thoſe that are taken upon Arreſts, who are firſt ſqueezed by Bailiffs out of as much (moſt times) as ſuch ſmall Debts come to, for their Fees and Attendance, then liable to pay about 10 <hi>l.</hi> Coſt to the Plaintiff (if they are caſt) beſides their own Charges in defending it, or lye in a Jayl for it till they periſh, which is very deplorable, Priſons being glutted with ſuch miſerable People, and has been the Ruin of many Families, and is directly contrary to the Letter of the Law, for Debts under 40 <hi>s.</hi> And, 1. As to that, the Law has provided already inferiour Courts, where the Defendants are only ſummoned, and their Body never liable to be taken for ſuch ſmall Debts; the Charge of a Tryal ſo ſmall, (if they come to it) that will hardly amount to the Charge of the Bailiffs upon an Arreſt, and the Recovery quick and eaſie: And if the Defendant (upon the firſt Sum<g ref="char:EOLhyphen"/>mons, or Notice of a Suit againſt him) tenders to the Plaintiff what is juſtly due to him; if the Plaintiff refuſeth to accept of it, but will (notwith<g ref="char:EOLhyphen"/>ſtanding ſuch tender) wilfully proceed, it ſhall be at the Plaintiff's own Coſts and Charges, by the Courſe and Practice of the ſaid Courts. And in caſe poor Perſons do either Sue or be Sued there, they are admitted in
+<hi>Forma Pauperis,</hi> and pay no Fees at all.</p>
+            <div type="part">
+               <head>Equal Difficulty in a Caſe of Forty Shillings as Forty Pounds, yet left to the deciſion of <g ref="char:V">Ʋ</g>nlearned Men.</head>
+               <p>If it be Objected, That <hi>Juries</hi> are always of the Neighborhood, which the Common Law appoints. For Anſwer, 1. In caſe of a Jury either Plaintiff or Defendant hath his Lawful Challenge. 2. If they go againſt their Evidence, or againſt the Law, an Attaint lies againſt them, upon which the wronged Party is reſtored. 3. New Tryals are given after ill Verdicts by the Court; but to theſe Commiſſioners, no Challenge lies beforehand, nor Attaint after; nor from their Judgment is there any Appeal.</p>
+               <p>In caſe of Arbitrement, where Shopkeepers are choſen Judges, 'tis obſervable, how Zealous each Perſon is for his Friend, particular Acquaintance, and Cuſtomer, even beyond Equity and Reaſon; And <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be hoped they will prove more moderate when they are nominated by any other Means than by the joint Conſent of the Parties ſubmitting.</p>
+               <p>How far forth ſpecial Agreements bind, and upon what Conſiderations Promiſes for the Payment of Mony are obliging, is a very nice Point of the Law. Therefore,</p>
+               <p>From hence it muſt follow, that many Errors muſt of neceſſity be in the Decrees of this Judicature, and yet from ſuch Decrees there is no Appeal.</p>
+               <p>It ſeems to be no good Anſwer, to ſay, That the Decrees of this Judicature are but for ſmall Debts, inaſmuch as Juſtice is equally abuſed and tranſ<g ref="char:EOLhyphen"/>greſſed in Small as Great Things, tho' the Loſſes ſuſtained vary.</p>
+               <p>This Judicature is Impower'd to Examin and Determin upon the Oaths of the Parties themſelves, as well as Witneſſes, (not allowable by our Laws) which will cauſe frequent Perjuries amongſt poor People, who will be enticed to Forſwear themſelves, not only to enrich their Pockets, but to gratifie their Revenge and Anger.</p>
+               <p>This Judicature will cauſe Diſſention in the Neighborhood where practiſed; for, Tradeſmen being made Judges over Tradeſmen, and every man thinking beſt of his own Cauſe, will certainly blame their Neighbors that give Judgment againſt them; which will breed ill Blood and Heart-burn<g ref="char:EOLhyphen"/>ing amongſt them.</p>
+               <p>This Arbitrary Proceeding, contrary to the Law and <hi>Magna Charta,</hi> (being the Subject's Birthright) will bar the Subject of the Benefit of other Good Laws, and moſt eſpecially of the Statute of <hi>Limitation,</hi> made 21 <hi>Ja<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> and revive old antiquated Controverſies, which that Law had buried in Oblivion. Who knows where this will end, if once the Fence be broken, and a Breach made in this ſtrong Wall of Safety, which guards our Lives, Good Names, and Eſtates, from the Violence of the Multitude? The Breach is eaſier widen'd than it was firſt made; and tho' it begins with Actions under 40 <hi>s.</hi> it may quickly encreaſe to 5 <hi>l.</hi> or more, <hi>&amp;c.</hi> The Subject's Right is not more or leſs, according to the <hi>quantum</hi> of the Sum, but he hath the ſame Right to any Sum under 40 <hi>s.</hi> due to him, as to any above; and he is as much depriv'd of his Right when he is deny'd to Sue at Law for the one as for the other.</p>
+               <p>To prevent the many <hi>Perjuries,</hi>
+                  <note place="margin">
+                     <hi>Note,</hi> The ounce of Silver which is now worth 5 <hi>s.</hi> was not, when the Stat. of <hi>Gloc.</hi> was made, worth above 1
+<hi>s.</hi> 8 <hi>d.</hi> ſo that what was 40 <hi>s.</hi> then is now above 6 <hi>l.</hi>
+                  </note>
+                  <hi>Partialities, Corruptions of Commiſſioners,</hi> and other Inconveniencies, which muſt unavoidably fall out, if the Bill for the <hi>Courts of Conſcience</hi> do Paſs into an Act, it's Humbly Offer'd as an Expedient, That an Act of Parliament may be made to ſtrengthen the ſaid An<g ref="char:EOLhyphen"/>cient Courts-Barons, <hi>&amp;c.</hi> and, That the Law may be Reſtored as to the Recovery of Small Debts, the Arreſt taken away, both in mean Proceſs and in Execution, in all Caſes where the Debt or Damages do not exceed 40 <hi>s.</hi> and the Proceſs be by Summons, or reaſonable Diſtreſs of the Goods. And if it be enacted by Parliament, That on Proof by Oath of the Execution of the Summons, by leaving it in Writing with the Defendant, or his Wife, or fixing it on the Door of his Dwelling Houſe, or on Oath made that the Party was diſtreined:</p>
+               <p>If the Defendant do not appear according to the Summons, the Plaintiff may File his Declaration in Court, and proceed as if the Defendant had appear'd. And further, That if the Plaintiff ſhall proceed in any Court by Arreſt, and not by Summons and Diſtreſs only, and ſhall not recover above 40 <hi>s.</hi> Debt or Damages, that he ſhall have no more Coſts than Damages: The County-Courts, Hundred-Courts, and Courts-Baron of Lords of Man<g ref="char:EOLhyphen"/>nors, will be ſaved, and ſmall Debts and Damages may be recovered, with little Charge, and no Vexation to Debtors, without Bail or Impriſonment, in the ordinary Legal Methods, without ſeeking a Remedy by the Arbitrary way of a
+<hi>Court of Conſcience,</hi> as propoſed to be erected; where the Body is yet to remain liable to Impriſonment, and the Defendant may, during ſuch Suit within thoſe Courts, which is from month to month, or from three weeks to three weeks, with his Labour, get Mony to diſcharge the ſame.</p>
+               <p>And if it be put into the Power of ſuch Courts to give Time for the Defendant to pay the Debt or Damages recover'd by the Plaintiff, ſo that the Whole be to be paid within One whole Year after the recovery, and the Fees of ſuch Courts be ſetled by Act of Parliament, or left to be ſetled by the Judges in <hi>Weſtminſter-Hall;</hi> This Act, if it be made, will fully anſwer all the Ends the Promoters of the ſaid Bill <hi>for Courts of Conſcience</hi> do pre<g ref="char:EOLhyphen"/>tend to aim at; And the Law will thereby be Preſerved, Small Debts and Damages eaſily Recovered, and all Inconveniencies will be Removed.</p>
+               <p>Note, <hi>That in</hi> London <hi>there is no Court in nature of the County Court; for, the Sheriff's Court there, by Cuſtom, begins with a</hi> Capias, <hi>and for that Reaſon a</hi> Court of Conſcience <hi>was firſt ſet up there, by a By-Law, and afterwards Confirm'd by Parliament.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:188119:3"/>
+            <p>The Lady <hi>Ruſſels,</hi> and all Lords of Mannors <hi>Caſe,</hi> with <hi>Reaſons</hi> againſt the <hi>BILL</hi> for a <hi>Court of Conſcience,</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
